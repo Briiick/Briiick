@@ -10,4 +10,4 @@ I'm a Senior at Minerva University studying Computational Operations Research. I
 
 <a href = 'https://www.linkedin.com/in/alexanderbricken/'> <img align= 'center' src="https://img.shields.io/badge/-Alexander Bricken-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white"/></a> 
 
-<a href = 'https://twitter.com/abrickand'> <img align= 'center' src="https://img.shields.io/badge/Personal-Website-red?style=flat-square&logo="/></a> 
+<a href = 'https://bricken.co/'> <img align= 'center' src="https://img.shields.io/badge/Personal-Website-red?style=flat-square&logo="/></a> 
