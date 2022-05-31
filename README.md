@@ -2,7 +2,7 @@
 
 <h2> About Me</h2>
 
-Studied CS @ Minerva. I have a passion for software, data science and product management. Working for PleasrDAO right now.
+Studied CS @ Minerva. I have a passion for software, data science and product management. Pleasing.
 
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=briiick&hide=contribs)](https://github.com/briiick/)
 
