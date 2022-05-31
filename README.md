@@ -2,7 +2,7 @@
 
 <h2> About Me</h2>
 
-I'm a Senior at Minerva University studying Computational Operations Research. I have a passion for data science and product management, particularly in the fintech space right now.
+Studied CS @ Minerva. I have a passion for software, data science and product management. Working for PleasrDAO right now.
 
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=briiick&hide=contribs)](https://github.com/briiick/)
 
