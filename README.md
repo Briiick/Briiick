@@ -4,6 +4,8 @@
 
 Studied CS @ Minerva. I have a passion for software, data science, and product. I like speaking to customers, understanding their biggest problems, and solving them quickly with technology.
 
+My profile picture was made with a GAN I created using 10,000 scraped moonbirds NFTs.
+
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=briiick&hide=contribs)](https://github.com/briiick/)
 
 <a href = 'https://twitter.com/abrickand'> <img align= 'center' src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fabrickand"/></a> 
